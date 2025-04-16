@@ -31,6 +31,8 @@ Push it to your Docker Hub repository:
 ``` kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml```
 
 ### Step 4: Create Admin User for Dashboard
+ 
+Created dashboard-adminuser.yaml file and cluster_role_binding.yaml file and applied them using following commands
 
  ```kubectl apply -f deployment/dashboard-adminuser.yaml```
  
