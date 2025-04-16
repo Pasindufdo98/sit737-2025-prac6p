@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: docker-web-app-deployment
+  labels:
+    app: docker-web-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: docker-web-app
+  template:
+    metadata:
+      labels:
+        app: docker-web-app
+    spec:
+      containers:
+        - name: docker-web-app
+          image: pasindufdo98/docker_web_app
+          ports:
+            - containerPort: 3000

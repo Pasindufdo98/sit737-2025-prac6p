@@ -1,0 +1,28 @@
+
+{"level":"error","message":"Invalid input parameters","service":"addition-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"addition-service"}
+{"level":"error","message":"Invalid input parameters","service":"subtraction-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"subtraction-service"}
+{"level":"error","message":"Invalid input parameters","service":"multiplication-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"multiplication-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Division by zero is not allowed","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"addition-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"addition-service"}
+{"level":"error","message":"Invalid input parameters","service":"subtraction-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"subtraction-service"}
+{"level":"error","message":"Invalid input parameters","service":"multiplication-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"multiplication-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Division by zero is not allowed","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"exponentiation-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"exponentiation-service"}
+{"level":"error","message":"Invalid input parameters","service":"square-root-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"square-root-service"}
+{"level":"error","message":"Invalid input parameters","service":"modulo-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"modulo-service"}
+{"level":"error","message":"Cannot compute square root of a negative number","service":"square-root-service"}
+{"level":"error","message":"Invalid input parameters","service":"square-root-service"}
+{"level":"error","message":"Invalid input: All parameters must be valid numbers","service":"square-root-service"}
